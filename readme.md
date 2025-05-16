@@ -1,17 +1,17 @@
-# ================================================================
-# 📋 Architecture Diagram Description (for README)
-# ================================================================
-# [VPC]
-# ├── Public Subnet (with Bastion Host, optional)
-# ├── Private Subnet (with EC2 Instance)
-# └── Internet Gateway + NAT Gateway
-#
-# [Security]
-# ├── VPC Flow Logs (CloudWatch)
-# ├── CloudTrail (S3 + Encryption)
-# ├── AWS Config Rules
-# ├── CloudWatch Alarms (Unauthorized API calls)
-# └── Secrets stored in AWS Secrets Manager
+### ================================================================
+### 📋 Architecture Diagram Description (for README)
+### ================================================================
+### [VPC]
+### ├── Public Subnet (with Bastion Host, optional)
+### ├── Private Subnet (with EC2 Instance)
+### └── Internet Gateway + NAT Gateway
+###
+### [Security]
+### ├── VPC Flow Logs (CloudWatch)
+### ├── CloudTrail (S3 + Encryption)
+### ├── AWS Config Rules
+### ├── CloudWatch Alarms (Unauthorized API calls)
+### └── Secrets stored in AWS Secrets Manager
 
 # ================================================================
 # 📋 README.md (Deployment Instructions)
