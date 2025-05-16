@@ -13,10 +13,10 @@
 ### ├── CloudWatch Alarms (Unauthorized API calls)
 ### └── Secrets stored in AWS Secrets Manager
 
-# ================================================================
-# 📋 README.md (Deployment Instructions)
-# ================================================================
-# AWS Secure Infrastructure - Terraform IaC
+### ================================================================
+### 📋 README.md (Deployment Instructions)
+### ================================================================
+### AWS Secure Infrastructure - Terraform IaC
 
 ## 📂 Project Folder Structure
 ```bash
