@@ -1,0 +1,14 @@
+# Terraform state and cache
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+
+# IDE/Editor settings
+.vscode/
+.idea/
+
+# Logs and system files
+*.log
+.DS_Store
